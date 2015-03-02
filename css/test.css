@@ -1,0 +1,14 @@
+
+.descr {
+    display: table;
+}
+
+.descr-icon {
+    display: table-cell;
+    width: 20px;
+    vertical-align: middle;
+}
+
+.descr-text {
+    display: table-cell;
+}
